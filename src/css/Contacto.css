@@ -1,0 +1,80 @@
+.fondoContacto{
+    width: 100%;
+    height: -webkit-fill-available;
+    background: url("../images/contactcenter_principal.jpg");
+    position: absolute;
+    background-repeat: repeat;
+    background-size: cover;
+
+}
+.fondoContacto2{
+    height:  82%;
+    background: rgba(1,1,1,.5);
+    text-align: -webkit-center;
+    overflow: auto;
+}
+
+.panelContacto{
+    width: 60%;
+    background: rgba(255,255,255,.7);
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgba(1,1,1,.4);
+    text-align: -webkit-center;
+    padding: 3% 0px 1% 0
+}
+.separador{
+    border-right-style: solid;
+    border-right-width: 3px;
+    border-color: gray;
+}
+
+.text_p_contact{
+    color: rgba(1,1,1,.7);;
+}
+.title_p_contact{
+    font-size: xx-large;
+    font-family: cursive;
+}
+.mensage_contact{
+    width: 100%;
+    height: 200px !important;
+    overflow: revert;
+    resize: none;
+}
+.center_panel_contact{
+    place-self: center;
+}
+.camposContact{
+    margin: 10px;
+
+}
+.camposContact>input{
+    width: 100%;
+}
+
+.button_Enviar_contact{
+    width: 100%;
+    text-align: right;
+}
+.button_Enviar_contact>button{
+    background: gold;
+    color: black;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.button_Enviar_contact>button:hover{
+    background: goldenrod;
+}
+
+.textContact{
+    color: white;
+    font-size: 50px;
+    font-family: "Arial Black";
+}
+
+.textContact2{
+    color: white;
+    font-size: 40px;
+}
