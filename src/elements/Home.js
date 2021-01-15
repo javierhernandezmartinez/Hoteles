@@ -138,7 +138,7 @@ export default class Home extends React.Component {
 
                 <div className={"row panelHome "}>
                     <div className={"col welcom"}>
-                        <p className={"textVienvenida"}>Wolcome</p>
+                        <p className={"textVienvenida"}>Welcome</p>
                         <p className={"textSlogan"}>Hospedate en el mejor lugar</p>
                     </div>
                 </div>
